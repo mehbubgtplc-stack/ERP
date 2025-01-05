@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../../../../../../tmp/tmp-176661-pwRaO5vkIJVW/custom_app_ethiotop/custom_app_ethiotop/public/scss/custom.bundle.css"],
+  "sourcesContent": [".layout-side-section {\n  background-color: #73f5fa;\n  padding: 10px;\n}\n\n.sticky-top {\n  background-color: #fab677;\n}"],
+  "mappings": ";AAAA;AACE;AACA;AAAA;AAGF;AACE;AAAA;",
+  "names": []
+}
