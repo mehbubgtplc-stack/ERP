@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "sources": ["../../../../../../../../../../../tmp/tmp-176661-worKqd5vr7cM/custom_app_ethiotop/custom_app_ethiotop/public/scss/custom.bundle.css"],
+  "sources": ["../../../../../../../../../../../tmp/tmp-268604-jdxcsZ0h5Q6p/custom_app_ethiotop/custom_app_ethiotop/public/scss/custom.bundle.css"],
   "sourcesContent": [".layout-side-section {\n  background-color: #73f5fa;\n  padding: 10px;\n}\n\n.sticky-top {\n  background-color: #fab677;\n}"],
   "mappings": ";AAAA;AACE;AACA;AAAA;AAGF;AACE;AAAA;",
   "names": []

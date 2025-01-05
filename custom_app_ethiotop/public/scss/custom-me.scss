@@ -1,0 +1,59 @@
+.container:has(#page-me) {
+  height: 100%;
+}
+
+#page-me {
+  background: url("/assets/custom_app_ethiotop/images/home-bg.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;      
+  background-attachment: fixed;
+  height: 100%;
+}
+
+.my-account-header {
+  display: none;
+}
+
+.account-info {
+  background: none; 
+  border: none;
+  .col {
+    border-bottom: none;
+  }
+  div {
+    flex-direction: column;
+  }
+  > div:last-child {
+    display: none !important;
+  }
+
+  > div:first-child {
+    > div:first-child {
+      padding-bottom: 25px;
+      border-bottom: 1px solid white;
+      margin-bottom: 26px;
+    }
+  }
+}
+
+span:has(.my-account-item) {
+  display: none;
+}
+
+.web-footer {
+  display: none;
+}
+
+// main.container {
+//   border: 1px solid wheat;
+//   border-radius:  var(--border-radius-md);
+// }
+
+li.sidebar-item {
+  border-bottom: 1px solid white;
+
+  a {
+    font-size: var(--font-size-lg);
+  }
+}
