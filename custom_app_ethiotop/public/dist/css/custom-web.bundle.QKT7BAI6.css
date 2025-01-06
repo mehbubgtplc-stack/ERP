@@ -1,10 +1,25 @@
-/* ../../../../../../../../tmp/tmp-268604-jdxcsZ0h5Q6p/custom_app_ethiotop/custom_app_ethiotop/public/scss/custom-web.bundle.css */
+/* ../../../../../../../../tmp/tmp-759550-X3cdOK4BahBk/custom_app_ethiotop/custom_app_ethiotop/public/scss/custom-web.bundle.css */
+.sidebar-item-container .desk-sidebar-item {
+  padding: 10px 25px;
+}
 .layout-side-section {
-  background-color: #73f5fa;
   padding: 10px;
+}
+ce-block__content {
+  padding: 10px 25px;
 }
 .sticky-top {
   background-color: #fab677;
+}
+.navbar-brand img {
+  max-width: 150px;
+  max-height: 60px;
+}
+.my-account-container {
+  border: 1px solid rgba(255, 255, 255, 0.651);
+  border-radius: var(--border-radius-md);
+  width: 80%;
+  background-image: linear-gradient(to top, rgba(255, 255, 255, 0.322), rgba(106, 182, 253, 0.308));
 }
 .for-login .page-card .page-card-body .email-field input {
   padding-left: 15px;
@@ -81,4 +96,4 @@ li.sidebar-item {
 li.sidebar-item a {
   font-size: var(--font-size-lg);
 }
-/*# sourceMappingURL=custom-web.bundle.DKJA3ZTQ.css.map */
+/*# sourceMappingURL=custom-web.bundle.QKT7BAI6.css.map */

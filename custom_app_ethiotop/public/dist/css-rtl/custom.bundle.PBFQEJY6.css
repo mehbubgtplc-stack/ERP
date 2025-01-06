@@ -1,34 +1,19 @@
-
-.sidebar-item-container {
-  // padding: 10px 25px;
-
-  .desk-sidebar-item {
-    padding: 10px 25px;
-  
-    // a {
-    //   padding: 10px 25px;
-    // }
-  }
+/* ../../../../../../../../tmp/tmp-759550-6jTlipx67lDl/custom_app_ethiotop/custom_app_ethiotop/public/scss/custom.bundle.css */
+.sidebar-item-container .desk-sidebar-item {
+  padding: 10px 25px;
 }
-
 .layout-side-section {
-  // background-color: #73f5fa;
   padding: 10px;
 }
-
 ce-block__content {
   padding: 10px 25px;
 }
-
 .sticky-top {
   background-color: #fab677;
 }
-
-.navbar-brand {
-  img {
-    max-width: 150px;
-    max-height: 60px;
-  }
+.navbar-brand img {
+  max-width: 150px;
+  max-height: 60px;
 }
 .my-account-container {
   border: 1px solid rgba(255, 255, 255, 0.651);
@@ -36,3 +21,4 @@ ce-block__content {
   width: 80%;
   background-image: linear-gradient(to top, rgba(255, 255, 255, 0.322), rgba(106, 182, 253, 0.308));
 }
+/*# sourceMappingURL=custom.bundle.PBFQEJY6.css.map */
