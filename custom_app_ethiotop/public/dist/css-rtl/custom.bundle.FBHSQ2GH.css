@@ -1,4 +1,4 @@
-/* ../../../../../../../../tmp/tmp-759550-6jTlipx67lDl/custom_app_ethiotop/custom_app_ethiotop/public/scss/custom.bundle.css */
+/* ../../../../../../../../tmp/tmp-1858423-cqagw05Jr8dy/custom_app_ethiotop/custom_app_ethiotop/public/scss/custom.bundle.css */
 .sidebar-item-container .desk-sidebar-item {
   padding: 10px 25px;
 }
@@ -21,4 +21,7 @@ ce-block__content {
   width: 80%;
   background-image: linear-gradient(to top, rgba(255, 255, 255, 0.322), rgba(106, 182, 253, 0.308));
 }
-/*# sourceMappingURL=custom.bundle.PBFQEJY6.css.map */
+.ce-block .ce-block__content .ce-header h4 {
+  color: red;
+}
+/*# sourceMappingURL=custom.bundle.FBHSQ2GH.css.map */

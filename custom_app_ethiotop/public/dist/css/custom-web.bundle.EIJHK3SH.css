@@ -1,0 +1,77 @@
+/* ../../../../../../../../tmp/tmp-1858423-naFmjwvIepA6/custom_app_ethiotop/custom_app_ethiotop/public/scss/custom-web.bundle.css */
+.for-login .page-card .page-card-body .email-field input {
+  padding-left: 15px;
+}
+.container:has(#page-me) {
+  height: 100%;
+}
+#page-me {
+  background: url(/assets/custom_app_ethiotop/images/home-bg.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100%;
+}
+.my-account-header {
+  display: none;
+}
+.account-info {
+  background: none;
+  border: none;
+}
+.account-info .col {
+  border-bottom: none;
+}
+.account-info div {
+  flex-direction: column;
+}
+.account-info > div:last-child {
+  display: none !important;
+}
+.account-info > div:first-child > div:first-child {
+  padding-bottom: 25px;
+  border-bottom: 1px solid white;
+  margin-bottom: 26px;
+}
+span:has(.my-account-item) {
+  display: none;
+}
+.web-footer {
+  display: none;
+}
+li.sidebar-item {
+  border-bottom: 1px solid white;
+}
+li.sidebar-item a {
+  font-size: var(--font-size-lg);
+}
+body {
+  background: linear-gradient(to bottom, rgba(217, 252, 63, 0.74), rgba(45, 241, 241, 0.801), rgba(224, 89, 236, 0.74));
+}
+#page-login {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url(/assets/custom_app_ethiotop/images/login-bg.png);
+}
+#page-login .page-content-wrapper .container .page_content .for-login {
+  padding: 3rem;
+  background-color: rgba(255, 255, 255, 0.034);
+  border-radius: var(--border-radius-md);
+  border: 1px solid;
+  border-color: var(--gray-500);
+}
+#page-login .page-content-wrapper .container .page_content .for-login .page-card-head h4 {
+  color: var(--gray-50);
+}
+#page-login .page-content-wrapper .container .page_content .for-login .page-card {
+  background-color: transparent;
+  border: none;
+  border-radius: 0;
+}
+#page-login .page-content-wrapper .container .page_content .for-login .page-card .page-card-body .password-field .toggle-password {
+  top: 10px !important;
+}
+/*# sourceMappingURL=custom-web.bundle.EIJHK3SH.css.map */
