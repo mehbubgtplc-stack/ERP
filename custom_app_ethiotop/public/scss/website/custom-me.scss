@@ -11,6 +11,13 @@
   height: 100%;
 }
 
+.navbar-brand {
+  img {
+    max-width: 120px;
+    max-height: 50px;
+  }
+}
+
 .my-account-header {
   display: none;
 }

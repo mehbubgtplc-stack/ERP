@@ -1,0 +1,32 @@
+/* ../../../../../../../../tmp/tmp-33727-tbg5eTi1Z32m/custom_app_ethiotop/custom_app_ethiotop/public/scss/custom.bundle.css */
+.sidebar-item-container .desk-sidebar-item {
+  padding: 10px 25px;
+}
+.layout-side-section {
+  padding: 10px;
+}
+.sticky-top {
+  background-color: #fab677;
+}
+.navbar-brand img {
+  max-width: 100px;
+  max-height: 40px;
+}
+.my-account-container {
+  border: 1px solid rgba(255, 255, 255, 0.651);
+  border-radius: var(--border-radius-md);
+  width: 80%;
+  background-image: linear-gradient(to top, rgba(255, 255, 255, 0.322), rgba(106, 182, 253, 0.308));
+}
+.ce-block .ce-block__content .shortcut-widget-box {
+  padding: 10px 25px;
+  margin: 15px;
+  border: 1px solid #d1d1d1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ce-block .ce-block__content .spacer {
+  margin: 15px;
+}
+/*# sourceMappingURL=custom.bundle.AORTJH7L.css.map */

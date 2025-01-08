@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../../../../../../../../../tmp/tmp-1858423-cqagw05Jr8dy/custom_app_ethiotop/custom_app_ethiotop/public/scss/custom.bundle.css"],
-  "sourcesContent": [".sidebar-item-container .desk-sidebar-item {\n  padding: 10px 25px;\n}\n\n.layout-side-section {\n  padding: 10px;\n}\n\nce-block__content {\n  padding: 10px 25px;\n}\n\n.sticky-top {\n  background-color: #fab677;\n}\n\n.navbar-brand img {\n  max-width: 150px;\n  max-height: 60px;\n}\n\n.my-account-container {\n  border: 1px solid rgba(255, 255, 255, 0.651);\n  border-radius: var(--border-radius-md);\n  width: 80%;\n  background-image: linear-gradient(to top, rgba(255, 255, 255, 0.322), rgba(106, 182, 253, 0.308));\n}\n\n.ce-block .ce-block__content .ce-header h4 {\n  color: red;\n}"],
-  "mappings": ";AAAA;AACE;AAAA;AAGF;AACE;AAAA;AAGF;AACE;AAAA;AAGF;AACE;AAAA;AAGF;AACE;AACA;AAAA;AAGF;AACE;AACA;AACA;AACA;AAAA;AAGF;AACE;AAAA;",
-  "names": []
-}

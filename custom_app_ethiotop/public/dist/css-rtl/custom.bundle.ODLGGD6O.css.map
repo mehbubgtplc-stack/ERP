@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../../../../../../tmp/tmp-33727-4WHUK0Z9Fl4r/custom_app_ethiotop/custom_app_ethiotop/public/scss/custom.bundle.css"],
+  "sourcesContent": [".sidebar-item-container .desk-sidebar-item {\n  padding: 10px 25px;\n}\n\n.layout-side-section {\n  padding: 10px;\n}\n\n.sticky-top {\n  background-color: #fab677;\n}\n\n.navbar-brand img {\n  max-width: 100px;\n  max-height: 40px;\n}\n\n.my-account-container {\n  border: 1px solid rgba(255, 255, 255, 0.651);\n  border-radius: var(--border-radius-md);\n  width: 80%;\n  background-image: linear-gradient(to top, rgba(255, 255, 255, 0.322), rgba(106, 182, 253, 0.308));\n}\n\n.ce-block .ce-block__content .shortcut-widget-box {\n  padding: 10px 25px;\n  margin: 15px;\n  border: 1px solid #d1d1d1;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n.ce-block .ce-block__content .spacer {\n  margin: 15px;\n}"],
+  "mappings": ";AAAA;AACE;AAAA;AAGF;AACE;AAAA;AAGF;AACE;AAAA;AAGF;AACE;AACA;AAAA;AAGF;AACE;AACA;AACA;AACA;AAAA;AAGF;AACE;AACA;AACA;AACA;AACA;AACA;AAAA;AAEF;AACE;AAAA;",
+  "names": []
+}
